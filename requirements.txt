@@ -1,0 +1,5 @@
+python 3.7
+pygame
+pytorch (no cuda, no torchaudio)
+matplotlib
+ipython
